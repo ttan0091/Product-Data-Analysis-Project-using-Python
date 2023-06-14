@@ -1,0 +1,11 @@
+{'user_id':'a_1234567890', 'user_name':'Admin', 'user_password':'^^gDaFR0710ia0SM0$$', 'user_register_time':'06-06-2023_18:50:51', 'user_role':'admin'}
+{'user_id':'u_3231348925', 'user_name':'addun', 'user_password':'^^oWaL10xg0l70cH0$$', 'user_register_time':'06-06-2023_18:51:34', 'user_role':'customer', 'user_email':'0000000001@gmail.com', 'user_mobile':'0300000001'}
+{'user_id':'u_2250019979', 'user_name':'ybtpc', 'user_password':'^^4Ga6I0Mu06Z07T0$$', 'user_register_time':'06-06-2023_18:51:34', 'user_role':'customer', 'user_email':'0000000002@gmail.com', 'user_mobile':'0300000002'}
+{'user_id':'u_7851744855', 'user_name':'xkget', 'user_password':'^^zfaul0VK0ri0om0$$', 'user_register_time':'06-06-2023_18:51:34', 'user_role':'customer', 'user_email':'0000000003@gmail.com', 'user_mobile':'0300000003'}
+{'user_id':'u_3121226531', 'user_name':'jxznn', 'user_password':'^^Zza7c0Dn0wV0bV0$$', 'user_register_time':'06-06-2023_18:51:35', 'user_role':'customer', 'user_email':'0000000004@gmail.com', 'user_mobile':'0300000004'}
+{'user_id':'u_8730103171', 'user_name':'qsodk', 'user_password':'^^7NaTC0Mp0Op0Bh0$$', 'user_register_time':'06-06-2023_18:51:35', 'user_role':'customer', 'user_email':'0000000005@gmail.com', 'user_mobile':'0300000005'}
+{'user_id':'u_2281434328', 'user_name':'rkqbe', 'user_password':'^^lDahf0N00N50Co0$$', 'user_register_time':'06-06-2023_18:51:35', 'user_role':'customer', 'user_email':'0000000006@gmail.com', 'user_mobile':'0300000006'}
+{'user_id':'u_4508448574', 'user_name':'caldw', 'user_password':'^^4Aac00aS00o0gs0$$', 'user_register_time':'06-06-2023_18:51:35', 'user_role':'customer', 'user_email':'0000000007@gmail.com', 'user_mobile':'0300000007'}
+{'user_id':'u_3229714889', 'user_name':'bdrvk', 'user_password':'^^yYaYr0PH0DU05Q0$$', 'user_register_time':'06-06-2023_18:51:35', 'user_role':'customer', 'user_email':'0000000008@gmail.com', 'user_mobile':'0300000008'}
+{'user_id':'u_5063297584', 'user_name':'pclcr', 'user_password':'^^vWaWp0xK0Ey0Vh0$$', 'user_register_time':'06-06-2023_18:51:35', 'user_role':'customer', 'user_email':'0000000009@gmail.com', 'user_mobile':'0300000009'}
+{'user_id':'u_1805727634', 'user_name':'botni', 'user_password':'^^Obaxu0kH0Vn0nl0$$', 'user_register_time':'06-06-2023_18:51:35', 'user_role':'customer', 'user_email':'0000000010@gmail.com', 'user_mobile':'0300000010'}
